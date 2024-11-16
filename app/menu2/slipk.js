@@ -167,7 +167,7 @@ function updateDisplay() {
             bankLogoUrl = '../assets/image/logo/CIMB.png';
             break;
         case 'ธ.ยูโอบี':
-            bankLogoUrl = '/assets/image/logo/UOB.png';
+            bankLogoUrl = '../assets/image/logo/UOB.png';
             break;
         case 'ธ.แลนด์ แอนด์ เฮาส์':
             bankLogoUrl = '../assets/image/logo/LHBANK.png';
